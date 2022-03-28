@@ -1,9 +1,9 @@
 # CatchTheKenny-master
  Android Projects Course 
  
- -Catch The Kenny simple game project for android 
+ - Catch The Kenny simple game project for android 
  
- -Wroted with Java
+ - Wroted with Java
 
 
 
